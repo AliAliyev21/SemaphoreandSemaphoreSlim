@@ -9,10 +9,11 @@ using YoutubeExplode.Videos.Streams;
 
 namespace WpfTask1
 {
-
+    //https://www.youtube.com/watch?v=LNYm40RmRzs
     //https://www.youtube.com/watch?v=5jyEhiKmbDo
-    //https://www.youtube.com/watch?v=GGXE44ucqCE
     //https://www.youtube.com/watch?v=hhTZuWhYSkQ
+    //https://www.youtube.com/watch?v=GGXE44ucqCE
+    
     public partial class MainWindow : Window
     {
         private ProgressBar[] progressBars;
